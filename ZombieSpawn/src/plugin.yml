@@ -1,0 +1,10 @@
+name: ZombieSpawn
+version: 1.0
+author: Lukáš
+main: me.lukáš.ZombieSpawn.Main
+description: Spawns 10 Zombies
+
+commands:
+  Zombie:
+    aliases: [zs]
+    description: /zs to spawn 10 zombies
